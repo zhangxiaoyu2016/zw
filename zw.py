@@ -4,9 +4,9 @@ from selenium import webdriver
 
 from selenium.webdriver.support.ui import Select
 
-username = "18362085358"
+username = "用户名"
 
-password = "123321"
+password = "密码"
 
 driver=webdriver.Chrome()# 选择Chrome浏览器
 
